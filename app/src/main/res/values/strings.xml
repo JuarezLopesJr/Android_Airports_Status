@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Airports</string>
+    <string name="airport_code">Airport code</string>
+    <string name="airport_row_code">Code</string>
+    <string name="code_hint">ABC</string>
+    <string name="btn_add_text">Add</string>
+    <string name="airport_name">Name</string>
+    <string name="airport_temp">Temp</string>
+    <string name="delay_icon">⏳</string>
+</resources>
